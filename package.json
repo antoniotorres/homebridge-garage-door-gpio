@@ -1,15 +1,15 @@
 {
-  "displayName": "Garage Door Hack",
-  "name": "homebridge-garage-door-hack",
+  "displayName": "Garage Door GPIO",
+  "name": "@toniotgz/homebridge-garage-door-gpio",
   "version": "0.1.0",
   "description": "Hack around a garage door control",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/antoniotorres/homebridge-garage-door-hack.git"
+    "url": "git://github.com/antoniotorres/homebridge-garage-door-gpio.git"
   },
   "bugs": {
-    "url": "https://github.com/antoniotorres/homebridge-garage-door-hack/issues"
+    "url": "https://github.com/antoniotorres/homebridge-garage-door-gpio/issues"
   },
   "engines": {
     "node": ">=10.17.0",
