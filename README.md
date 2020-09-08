@@ -7,7 +7,7 @@
 # Homebridge Garage Door Hack
 
 ```
-NOTE: This package can only be used with a Raspberry Pi. This package requires onoff as a dependency.
+NOTE: This package can only be used with a Raspberry Pi.
 ```
 
 Homebridge plugin the supports opening and closing a garage door thought the GPIO pins of the Raspberry Pi.
@@ -19,12 +19,13 @@ This package works by using pin 26 as a digital trigger. The image below shows t
 
 ## Installation
 
-Install homebridge using: `npm install -g homebridge`
-Install this plugin using: `npm install -g @toniotgz/homebridge-garage-door-hack`
-Update your configuration file. See the sample below.
-Configuration
+1. Install homebridge using: `npm install -g homebridge`
+2. Install this plugin using: `npm install -g @toniotgz/homebridge-garage-door-hack`
+3. Update your configuration file. See the sample below.
 
-## Configuration sample:
+## Configuration
+
+### Configuration sample:
 
 ```json
 "accessories": [
