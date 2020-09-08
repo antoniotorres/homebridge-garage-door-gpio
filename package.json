@@ -1,6 +1,6 @@
 {
   "displayName": "Garage Door Hack",
-  "name": "@toniotgz/homebridge-garage-door-hack",
+  "name": "homebridge-garage-door-hack",
   "version": "0.1.0",
   "description": "Hack around a garage door control",
   "license": "Apache-2.0",
