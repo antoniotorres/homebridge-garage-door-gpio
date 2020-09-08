@@ -14,7 +14,8 @@ Homebridge plugin the supports opening and closing a garage door thought the GPI
 
 This package works by using pin 26 as a digital trigger. The image below shows the pin numbers of the Raspberry Pi.
 
-![GPIO Pinout Diagram](https://www.raspberrypi.org/documentation/usage/gpio/images/GPIO-Pinout-Diagram-2.png)
+![GPIO Pinout Diagram](https://raw.githubusercontent.com/raspberrypi/documentation/e6ee98ffc4d9f7900893ee4137d3a76ffd858bd2/usage/gpio/images/GPIO-Pinout-Diagram-2.png)
+
 
 ## Installation
 
