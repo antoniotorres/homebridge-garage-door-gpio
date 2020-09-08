@@ -20,7 +20,7 @@ This package works by using pin 26 as a digital trigger. The image below shows t
 ## Installation
 
 1. Install homebridge using: `npm install -g homebridge`
-2. Install this plugin using: `npm install -g @toniotgz/homebridge-garage-door-hack`
+2. Install this plugin using: `npm install -g @toniotgz/homebridge-garage-door-gpio`
 3. Update your configuration file. See the sample below.
 
 ## Configuration
